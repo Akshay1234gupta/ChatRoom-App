@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -11,3 +12,7 @@ Currently, two official plugins are available:
 # ChatRoom-App
 this is my Live chat room based application repository
 >>>>>>> 665d2d633e63199960de401def05c8856e60e759
+=======
+# ChatRoom-App
+This is chat room application
+>>>>>>> e4a314255a6b347c0cd07a81def2749bc143c355
